@@ -1,4 +1,8 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# 2048 game
+
+[DEMO LINK](https://DariaVeretyak.github.io/2048_game/)
+
+<br/>
+Implemented the 2048 game like in [this reference](https://play2048.co/)
+
+![Preview](./src/images/reference.png)
